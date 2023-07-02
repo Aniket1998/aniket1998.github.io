@@ -13,7 +13,9 @@ My [CV](https://aniket1998.github.io/assets/files/cv.pdf) can be found here
 I am broadly interested in applying ideas from probability, analysis and geometry to learning theory and theoretical computer science. Specific interests include:
 
 - **Sampling and Markov Chains** : Sampling in continuous domains, Spin systems, Wasserstein Gradient Flows, Markov Diffusion Processes  
+
 - **Stochastic Optimization** : Robust and Heavy-Tailed Stochastic Optimization, Stochastic Minimax Optimization  
+
 - **High-Dimensional Probability** : Concentration of Measure, Random Matrices, Optimal Transport, High-Dimensional Statistics and Learning Theory
 
 ## News
