@@ -12,9 +12,9 @@ My [CV](https://aniket1998.github.io/assets/files/cv.pdf) can be found here
 
 I am broadly interested in applying ideas from probability, analysis and geometry to learning theory and theoretical computer science. Specific interests include:
 
-- **Sampling and Markov Chains** : Sampling in continuous domains, Spin systems, Wasserstein Gradient Flows, Markov Diffusion Processes
-- **Stochastic Optimization** : Robust and Heavy-Tailed Stochastic Optimization, Stochastic Minimax Optimization
-- **High-Dimensional Probability** : Concentration of Measure, Random Matrices, High-Dimensional Statistics and Learning Theory 
+- **Sampling and Markov Chains** : Sampling in continuous domains, Spin systems, Wasserstein Gradient Flows, Markov Diffusion Processes  
+- **Stochastic Optimization** : Robust and Heavy-Tailed Stochastic Optimization, Stochastic Minimax Optimization  
+- **High-Dimensional Probability** : Concentration of Measure, Random Matrices, Optimal Transport, High-Dimensional Statistics and Learning Theory
 
 ## News
 
@@ -22,7 +22,7 @@ I am broadly interested in applying ideas from probability, analysis and geometr
 - **[May 2023]** Our papers on [Stochastic Gradient Langevin Dynamics](https://arxiv.org/pdf/2206.03792.pdf) and [Near Optimal Heteroscedastic Regression](https://arxiv.org/pdf/2306.14288.pdf) are accepted at COLT 2023. 
 - **[Sept. 2022]** Our paper on [Sampling Without Replacement for Finite-sum Minimax Optimization](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2ce4f0b8e24c45318352068603153590-Abstract-Conference.html) is accepted at NeurIPS 2022 
 - **[July 2022]** Joined the MLO Team at Google AI, Bangalore as a Pre-Doctoral Researcher
-- **[May. 2022]** Graduated from IIT Kanpur with a Double Major in EE and Math.
+- **[June 2022]** Graduated from IIT Kanpur with a Double Major in EE and Math.
 
 ## Selected Publications
 
