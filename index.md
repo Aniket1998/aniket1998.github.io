@@ -21,7 +21,7 @@ I am broadly interested in applying ideas from probability, analysis and geometr
 ## News
 
 - **[May 2023]** Our paper on Fast Finite-particle Convergence of Stein Variational Gradient Descent is on [ArXiv](https://arxiv.org/pdf/2305.17558.pdf)
-- **[May 2023]** Our papers on [Stochastic Gradient Langevin Dynamics](https://arxiv.org/pdf/2206.03792.pdf) and [Near Optimal Heteroscedastic Regression](https://arxiv.org/pdf/2306.14288.pdf) are accepted at COLT 2023. 
+- **[May 2023]** Our papers on [Stochastic Gradient Langevin Dynamics](https://proceedings.mlr.press/v195/das23a.html) and [Near Optimal Heteroscedastic Regression](https://proceedings.mlr.press/v195/das23b.html) are accepted at COLT 2023. 
 - **[Sept. 2022]** Our paper on [Sampling Without Replacement for Finite-sum Minimax Optimization](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2ce4f0b8e24c45318352068603153590-Abstract-Conference.html) is accepted at NeurIPS 2022 
 - **[July 2022]** Joined the MLO Team at Google AI, Bangalore as a Pre-Doctoral Researcher
 - **[June 2022]** Graduated from IIT Kanpur with a Double Major in EE and Math.
@@ -34,11 +34,11 @@ with Dheeraj Nagaraj
 
 - **Utilising the CLT Structure in Stochastic Gradient based Sampling : Improved Analysis and Faster Algorithms**  
 with Dheeraj Nagaraj and Anant Raj  
-*COLT 2023 (to appear)* [[ArXiv]](https://arxiv.org/pdf/2206.03792.pdf)
+*COLT 2023* [[Paper]](https://proceedings.mlr.press/v195/das23b.html)
 
 - **Near Optimal Heteroscedastic Regression with Symbiotic Learning**  
 with Dheeraj Baby, Dheeraj Nagaraj and Praneeth Netrapalli  
-*COLT 2023 (to appear)* [[ArXiv]](https://arxiv.org/pdf/2306.14288.pdf)
+*COLT 2023* [[Paper]](https://proceedings.mlr.press/v195/das23a.html)
 
 - **Sampling without Replacement Leads to Faster Rates in Finite-Sum Minimax Optimization**  
 with Bernhard Schölkopf and Michael Muehlebach  
