@@ -42,5 +42,5 @@ with Dheeraj Baby, Dheeraj Nagaraj and Praneeth Netrapalli
 
 - **Sampling without Replacement Leads to Faster Rates in Finite-Sum Minimax Optimization**  
 with Bernhard Schölkopf and Michael Muehlebach  
-*Neural Information Processing Systems (NeurIPS) 2022* [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2ce4f0b8e24c45318352068603153590-Abstract-Conference.html)
+*NeurIPS 2022* [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2ce4f0b8e24c45318352068603153590-Abstract-Conference.html)
 
