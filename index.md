@@ -6,17 +6,15 @@ layout: homepage
 
 I am a Pre-Doctoral Researcher in the Machine Learning and Optimization (MLO) Team at Google AI, Bangalore, led by  [Prateek Jain](http://www.prateekjain.org/). Prior to this, I was an undergraduate at Indian Institute of Technology Kanpur (IITK) double majoring in Electrical Engineering and Mathematics. During my time at IITK and Google, I have been fortunate to learn from an amazing set of mentors (in no particular order) : [Praneeth Netrapalli](https://praneethnetrapalli.org/) (Google), [Dheeraj Nagaraj](https://dheerajnagaraj.com/) (Google), [Arun Suggala](https://www.cs.cmu.edu/~asuggala/) (Google), [Bernhard Schölkopf](https://is.mpg.de/~bs) (MPI-IS), [Michael Muehlebach](https://sites.google.com/corp/view/mmuehlebach/) (MPI-IS) and [Sandeep Juneja](https://www.tcs.tifr.res.in/~sandeepj/) (TIFR).
 
-My [CV](https://aniket1998.github.io/assets/files/cv.pdf) can be found here
+My [CV](https://aniket1998.github.io/assets/files/cv.pdf) is available [here](https://aniket1998.github.io/assets/files/cv.pdf)
 
 ## Research Interests
 
 I am broadly interested in applying ideas from probability, analysis and geometry to learning theory and theoretical computer science. Specific interests include:
 
 - **Sampling and Markov Chains** : Sampling in continuous domains, Spin systems, Wasserstein Gradient Flows, Markov Diffusion Processes  
-
 - **Stochastic Optimization** : Robust and Heavy-Tailed Stochastic Optimization, Stochastic Minimax Optimization  
-
-- **High-Dimensional Probability** : Concentration of Measure, Random Matrices, Optimal Transport, High-Dimensional Statistics and Learning Theory
+- **High-Dimensional Probability** : Concentration of Measure, Random Matrices, Optimal Transport, High-Dimensional Statistics and Learning Theory  
 
 ## News
 
