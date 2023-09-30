@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Pre-Doctoral Researcher in the Machine Learning and Optimization (MLO) Team at Google AI, Bangalore, led by  [Prateek Jain](http://www.prateekjain.org/). Prior to this, I was an undergraduate at Indian Institute of Technology Kanpur (IITK) double majoring in Electrical Engineering and Mathematics. During my time at IITK and Google, I have been fortunate to learn from an amazing set of mentors (in no particular order) : [Praneeth Netrapalli](https://praneethnetrapalli.org/) (Google), [Dheeraj Nagaraj](https://dheerajnagaraj.com/) (Google), [Arun Suggala](https://www.cs.cmu.edu/~asuggala/) (Google), [Bernhard Schölkopf](https://is.mpg.de/~bs) (MPI-IS), [Michael Muehlebach](https://sites.google.com/corp/view/mmuehlebach/) (MPI-IS) and [Sandeep Juneja](https://www.tcs.tifr.res.in/~sandeepj/) (TIFR).
 
-**I am applying to PhD positions for the Fall 2024 cycle** Here is a link to my [CV](https://aniket1998.github.io/assets/files/cv.pdf)
+**I am applying to PhD positions for the Fall 2024 cycle. Here is a link to my [CV](https://aniket1998.github.io/assets/files/cv.pdf)**
 
 
 ##  Interests
@@ -30,7 +30,7 @@ I am broadly interested in applying ideas from probability, analysis and geometr
 
 - **Provably Fast Finite-Particle Variants of SVGD via Virtual Particle Stochastic Approximation**  
 *with Dheeraj Nagaraj*  
-NeurIPS 2023 **Spotlight**[[Paper]](https://arxiv.org/pdf/2305.17558.pdf)
+NeurIPS 2023 **[Spotlight]**[[Paper]](https://arxiv.org/pdf/2305.17558.pdf)
 
 - **Utilising the CLT Structure in Stochastic Gradient based Sampling : Improved Analysis and Faster Algorithms**  
 *with Dheeraj Nagaraj and Anant Raj*  
