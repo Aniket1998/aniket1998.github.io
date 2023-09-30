@@ -19,8 +19,8 @@ I am broadly interested in applying ideas from probability, analysis and geometr
 
 ## News
 
-- **[Sept. 2023]** Our paper on [Fast Finite-Particle Convergence of Stein Variational Gradient Descent](https://arxiv.org/pdf/2305.17558.pdf) is accepted as a **Spotlight Paper at NeurIPS 2023**
-- **[May 2023]** Our preprint on [Fast Finite-Particle Convergence of Stein Variational Gradient Descent](https://arxiv.org/pdf/2305.17558.pdf) is on ArXiv
+- **[Sept. 2023]** Our paper on [Fast Finite-Particle Convergence of Stein Variational Gradient Descent](https://arxiv.org/abs/2305.17558) is accepted as a **Spotlight Paper at NeurIPS 2023**
+- **[May 2023]** Our preprint on [Fast Finite-Particle Convergence of Stein Variational Gradient Descent](https://arxiv.org/abs/2305.17558) is on ArXiv
 - **[May 2023]** Our papers on [Stochastic Gradient Langevin Dynamics](https://proceedings.mlr.press/v195/das23a.html) and [Near Optimal Heteroscedastic Regression](https://proceedings.mlr.press/v195/das23b.html) are accepted at **COLT 2023**. 
 - **[Sept. 2022]** Our paper on [Sampling Without Replacement for Finite-sum Minimax Optimization](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2ce4f0b8e24c45318352068603153590-Abstract-Conference.html) is accepted at **NeurIPS 2022** 
 - **[July 2022]** Joined the MLO Team at Google AI, Bangalore as a Pre-Doctoral Researcher
@@ -30,7 +30,7 @@ I am broadly interested in applying ideas from probability, analysis and geometr
 
 - **Provably Fast Finite-Particle Variants of SVGD via Virtual Particle Stochastic Approximation**  
 *with Dheeraj Nagaraj*  
-NeurIPS 2023 **[Spotlight]**[[Paper]](https://arxiv.org/pdf/2305.17558.pdf)
+NeurIPS 2023 **[Spotlight]**[[Paper]](https://arxiv.org/abs/2305.17558)
 
 - **Utilising the CLT Structure in Stochastic Gradient based Sampling : Improved Analysis and Faster Algorithms**  
 *with Dheeraj Nagaraj and Anant Raj*  
