@@ -48,4 +48,4 @@ NeurIPS 2022 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/has
 
 - Reviewer : JMLR, NeurIPS, AISTATS
 - Co-ordinator : Special Interest Group in Machine Learning, IIT Kanpur
-- Undergrad Project Mentor : Programming Club, IIT Kanpur and Stamatics (Math Club), IIT Kanpurs
+- Undergrad Project Mentor : Programming Club, IIT Kanpur and Stamatics (Math Club), IIT Kanpur
