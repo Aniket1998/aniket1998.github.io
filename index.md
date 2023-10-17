@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Pre-Doctoral Researcher in the Machine Learning and Optimization (MLO) Team at Google AI, Bangalore, led by  [Prateek Jain](http://www.prateekjain.org/). Prior to this, I was an undergraduate at Indian Institute of Technology Kanpur (IITK) double majoring in Electrical Engineering and Mathematics. During my time at IITK and Google, I have been fortunate to learn from an amazing set of mentors (in no particular order) : [Praneeth Netrapalli](https://praneethnetrapalli.org/) (Google), [Dheeraj Nagaraj](https://dheerajnagaraj.com/) (Google), [Arun Suggala](https://www.cs.cmu.edu/~asuggala/) (Google), [Bernhard Schölkopf](https://is.mpg.de/~bs) (MPI-IS), [Michael Muehlebach](https://sites.google.com/corp/view/mmuehlebach/) (MPI-IS) and [Sandeep Juneja](https://www.tcs.tifr.res.in/~sandeepj/) (TIFR).
+I am a Pre-Doctoral Researcher in the Machine Learning and Optimization (MLO) Team at Google AI, Bangalore, led by  [Prateek Jain](http://www.prateekjain.org/). Prior to this, I was an undergraduate at Indian Institute of Technology Kanpur (IITK) double majoring in Electrical Engineering and Mathematics. During my time at IITK and Google, I have been fortunate to learn from an amazing set of mentors (in no particular order) : [Praneeth Netrapalli](https://praneethnetrapalli.org/) (Google), [Dheeraj Nagaraj](https://dheerajnagaraj.com/) (Google), [Arun Suggala](https://www.cs.cmu.edu/~asuggala/) (Google), [Michael Muehlebach](https://sites.google.com/corp/view/mmuehlebach/) (MPI-IS), [Bernhard Schölkopf](https://is.mpg.de/~bs) (MPI-IS) and [Sandeep Juneja](https://www.tcs.tifr.res.in/~sandeepj/) (TIFR).
 
 **I am applying to PhD positions for the Fall 2024 cycle. Here is a link to my [CV](https://aniket1998.github.io/assets/files/cv.pdf)**
 
@@ -15,7 +15,7 @@ I am broadly interested in applying ideas from probability, analysis and geometr
 
 - **Sampling and Markov Chains** : Sampling in Continuous Domains, Spin Systems, Wasserstein Gradient Flows, Markov Diffusion Processes  
 - **Applied Probability** : Concentration of Measure, Random Matrices, Optimal Transport, High-Dimensional Statistics and Learning Theory  
-- **Stochastic Optimization** : Robust and Heavy-Tailed Stochastic Optimization, Stochastic Minimax Optimization  
+- **Stochastic Optimization** : Stochastic Minimax Optimization, Heavy-Tailed Stochastic Optimization 
 
 ## News
 
