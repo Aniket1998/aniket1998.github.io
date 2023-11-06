@@ -11,11 +11,13 @@ I am a Pre-Doctoral Researcher in the Machine Learning and Optimization (MLO) Te
 
 ##  Interests
 
-I am broadly interested in applying ideas from probability, analysis and geometry to problems in learning theory, statistics and theoretical computer science. Specific interests include:
+I am interested in addressing fundamental questions in High Dimensional Statistics, Theoretical Computer Science and Machine Learning Theory by applying tools and insights from probability theory, analysis and geometry. I am particularly excited about:
 
-- **Sampling and Markov Chains** : Sampling in Continuous Domains, Spin Systems, Wasserstein Gradient Flows, Markov Diffusion Processes  
-- **Applied Probability** : Concentration of Measure, Random Matrices, Optimal Transport, High-Dimensional Statistics and Learning Theory  
-- **Stochastic Optimization** : Stochastic Minimax Optimization, Heavy-Tailed Stochastic Optimization 
+- **Sampling and Markov Chains** : Sampling from High-Dimensional Densities, Spin Systems, Wasserstein Gradient Flows, Bakry-Emery Theory  
+
+- **Applied Probability** : Concentration of Measure and Anti-Concentration Phenomena, Random Matrix Theory, Optimal Transport, High-Dimensional Statistics, Statistical Learning Theory  
+
+- **Continuous Optimization** : Nonconvex Optimization, Minimax Optimization, Stochastic Optimization 
 
 ## News
 
