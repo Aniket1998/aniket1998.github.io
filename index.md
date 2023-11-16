@@ -23,7 +23,6 @@ I am interested in addressing fundamental questions in High Dimensional Statisti
 
 - **[Oct. 2023]** Our paper on [Fast Finite-Particle Convergence of Stein Variational Gradient Descent](https://arxiv.org/abs/2305.17558) is accepted for an **Oral Presentation** at [OTML Workshop, NeurIPS 2023](https://otmlworkshop.github.io/)
 - **[Sept. 2023]** Our paper on [Fast Finite-Particle Convergence of Stein Variational Gradient Descent](https://arxiv.org/abs/2305.17558) is accepted as a **Spotlight Paper at NeurIPS 2023**
-- **[May 2023]** Our preprint on [Fast Finite-Particle Convergence of Stein Variational Gradient Descent](https://arxiv.org/abs/2305.17558) is on ArXiv
 - **[May 2023]** Our papers on [Stochastic Gradient Langevin Dynamics](https://proceedings.mlr.press/v195/das23a.html) and [Near Optimal Heteroscedastic Regression](https://proceedings.mlr.press/v195/das23b.html) are accepted at **COLT 2023**. 
 - **[Sept. 2022]** Our paper on [Sampling Without Replacement for Finite-sum Minimax Optimization](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2ce4f0b8e24c45318352068603153590-Abstract-Conference.html) is accepted at **NeurIPS 2022** 
 - **[July 2022]** Joined the MLO Team at Google AI, Bangalore as a Pre-Doctoral Researcher
@@ -52,4 +51,4 @@ NeurIPS 2022 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/has
 
 - Reviewer : JMLR, NeurIPS, AISTATS
 - Co-ordinator : Special Interest Group in Machine Learning, IIT Kanpur
-- Undergrad Project Mentor : Programming Club, IIT Kanpur and Stamatics (Math Club), IIT Kanpur
+- Undergrad Mentor : Programming Club, IIT Kanpur and Stamatics (Math Club), IIT Kanpur
