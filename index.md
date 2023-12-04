@@ -11,16 +11,17 @@ I am a Pre-Doctoral Researcher in the Machine Learning and Optimization (MLO) Te
 
 ##  Interests
 
-I am interested in addressing fundamental questions in High Dimensional Statistics, Theoretical Computer Science and Machine Learning Theory by applying tools and insights from probability theory, analysis and geometry. I am particularly excited about:
+My interests lie at the intersection of Applied Probability and Theoretical Computer Science. I am particularly interested in addressing fundamental questions in High Dimensional Statistics and Learning Theory by leveraging insights from probability theory, analysis, geometry and statistical physics. Specific interests include:
 
 - **Sampling and Markov Chains** : Sampling from High-Dimensional Densities, Spin Systems, Wasserstein Gradient Flows, Bakry-Emery Theory  
 
-- **Applied Probability** : Concentration of Measure and Anti-Concentration Phenomena, Random Matrix Theory, Optimal Transport, High-Dimensional Statistics, Statistical Learning Theory  
+- **Applied Probability** : Concentration of Measure and Anti-Concentration Phenomena, Random Matrix Theory, Optimal Transport Theory, High-Dimensional Statistics, Statistical Learning Theory  
 
 - **Continuous Optimization** : Nonconvex Optimization, Minimax Optimization, Stochastic Optimization 
 
 ## News
 
+- **[Nov. 2023]** Gave a [talk](https://www.youtube.com/watch?v=ufDU59FSCls) at the [MSR-IISc Theory Seminar](https://www.csa.iisc.ac.in/iisc-msr-seminar/?talk=20231124_AniketDas) on analyzing sampling from the lens of optimization.  
 - **[Oct. 2023]** Our paper on [Fast Finite-Particle Convergence of Stein Variational Gradient Descent](https://arxiv.org/abs/2305.17558) is accepted for an **Oral Presentation** at [OTML Workshop, NeurIPS 2023](https://otmlworkshop.github.io/)
 - **[Sept. 2023]** Our paper on [Fast Finite-Particle Convergence of Stein Variational Gradient Descent](https://arxiv.org/abs/2305.17558) is accepted as a **Spotlight Paper at NeurIPS 2023**
 - **[May 2023]** Our papers on [Stochastic Gradient Langevin Dynamics](https://proceedings.mlr.press/v195/das23a.html) and [Near Optimal Heteroscedastic Regression](https://proceedings.mlr.press/v195/das23b.html) are accepted at **COLT 2023**. 
@@ -32,23 +33,28 @@ I am interested in addressing fundamental questions in High Dimensional Statisti
 
 - **Provably Fast Finite-Particle Variants of SVGD via Virtual Particle Stochastic Approximation**  
 *with Dheeraj Nagaraj*  
-NeurIPS 2023 **[Spotlight]**[[Paper]](https://arxiv.org/abs/2305.17558)  
+**Spotlight** at NeurIPS 2023 [**[Paper]**](https://arxiv.org/abs/2305.17558)  
 **Oral Presentation** at [OTML Workshop, NeurIPS 2023](https://otmlworkshop.github.io/)
 
 - **Utilising the CLT Structure in Stochastic Gradient based Sampling : Improved Analysis and Faster Algorithms**  
 *with Dheeraj Nagaraj and Anant Raj*  
-COLT 2023 [[Paper]](https://proceedings.mlr.press/v195/das23b.html)
+COLT 2023 [**[Paper]**](https://proceedings.mlr.press/v195/das23b.html)
 
 - **Near Optimal Heteroscedastic Regression with Symbiotic Learning**  
 *with Dheeraj Baby, Dheeraj Nagaraj and Praneeth Netrapalli*  
-COLT 2023 [[Paper]](https://proceedings.mlr.press/v195/das23a.html)
+COLT 2023 [**[Paper]**](https://proceedings.mlr.press/v195/das23a.html)
 
 - **Sampling without Replacement Leads to Faster Rates in Finite-Sum Minimax Optimization**  
 *with Bernhard Schölkopf and Michael Muehlebach*  
-NeurIPS 2022 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2ce4f0b8e24c45318352068603153590-Abstract-Conference.html)
+NeurIPS 2022 [**[Paper]**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2ce4f0b8e24c45318352068603153590-Abstract-Conference.html)
 
 ## Service
 
 - Reviewer : JMLR, NeurIPS, AISTATS
 - Co-ordinator : Special Interest Group in Machine Learning, IIT Kanpur
 - Undergrad Mentor : Programming Club, IIT Kanpur and Stamatics (Math Club), IIT Kanpur
+
+## Fun
+
+I enjoy cooking. I play a lot of video games and love theorizing abiut videogame lore. I also have a thing for Evangelion and Twin Peaks lore. I like Kafka and Cioran. 
+
