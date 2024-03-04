@@ -4,18 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Pre-Doctoral Researcher in the Machine Learning and Optimization (MLO) Team at Google AI, Bangalore, led by  [Prateek Jain](http://www.prateekjain.org/). Prior to this, I was an undergraduate at Indian Institute of Technology Kanpur (IITK) double majoring in Electrical Engineering and Mathematics. During my time at IITK and Google, I have been fortunate to learn from an amazing set of mentors (in no particular order) : [Praneeth Netrapalli](https://praneethnetrapalli.org/) (Google), [Dheeraj Nagaraj](https://dheerajnagaraj.com/) (Google), [Arun Suggala](https://www.cs.cmu.edu/~asuggala/) (Google), [Michael Muehlebach](https://sites.google.com/corp/view/mmuehlebach/) (MPI-IS), [Bernhard Schölkopf](https://is.mpg.de/~bs) (MPI-IS) and [Sandeep Juneja](https://www.tcs.tifr.res.in/~sandeepj/) (TIFR).
+I am a Pre-Doctoral Researcher in the Machine Learning and Optimization (MLO) Team at Google AI, Bangalore. Prior to this, I was an undergraduate at Indian Institute of Technology Kanpur (IITK) double majoring in Electrical Engineering and Mathematics. During my time at IITK and Google, I have been fortunate to learn from an amazing set of mentors (in no particular order) : [Praneeth Netrapalli](https://praneethnetrapalli.org/) (Google), [Dheeraj Nagaraj](https://dheerajnagaraj.com/) (Google), [Arun Suggala](https://www.cs.cmu.edu/~asuggala/) (Google), [Michael Muehlebach](https://sites.google.com/corp/view/mmuehlebach/) (MPI-IS), [Bernhard Schölkopf](https://is.mpg.de/~bs) (MPI-IS) and [Sandeep Juneja](https://www.tcs.tifr.res.in/~sandeepj/) (TIFR).
 
 **I am applying to PhD positions for the Fall 2024 cycle. Here is a link to my [CV](https://aniket1998.github.io/assets/files/cv.pdf)**
 
 
 ##  Interests
 
-My interests lie at the intersection of Applied Probability and Theoretical Computer Science. I am particularly interested in addressing fundamental questions in High Dimensional Statistics and Learning Theory by leveraging insights from probability theory, analysis, geometry and statistical physics. Specific interests include:
+My interests lie at the intersection of Applied Probability, Statistics and Theoretical Computer Science. Specific interests include:
 
 - **Sampling and Markov Chains** : Sampling from High-Dimensional Densities, Spin Systems, Wasserstein Gradient Flows, Bakry-Emery Theory  
 
-- **Applied Probability** : Concentration of Measure and Anti-Concentration Phenomena, Random Matrix Theory, Optimal Transport Theory, High-Dimensional Statistics, Statistical Learning Theory  
+- **Applied Probability** : Concentration of Measure, Random Matrix Theory, Optimal Transport, High-Dimensional Statistics
 
 - **Continuous Optimization** : Nonconvex Optimization, Minimax Optimization, Stochastic Optimization 
 
@@ -56,5 +56,5 @@ NeurIPS 2022 [**[Paper]**](https://proceedings.neurips.cc/paper_files/paper/2022
 
 ## Fun
 
-I enjoy cooking. I play a lot of video games and love theorizing abiut videogame lore. I also have a thing for Evangelion and Twin Peaks lore. I like Kafka and Cioran. 
+I like to cook, talk about videogame lore, Evangelion, Kafka and Cioran.
 
