@@ -4,27 +4,30 @@ layout: homepage
 
 ## About Me
 
-I am a Pre-Doctoral Researcher in the Machine Learning and Optimization (MLO) Team at Google AI, Bangalore. Prior to this, I was an undergraduate at Indian Institute of Technology Kanpur (IITK) double majoring in Electrical Engineering and Mathematics. During my time at IITK and Google, I have been fortunate to learn from an amazing set of mentors (in no particular order) : [Praneeth Netrapalli](https://praneethnetrapalli.org/) (Google), [Dheeraj Nagaraj](https://dheerajnagaraj.com/) (Google), [Arun Suggala](https://www.cs.cmu.edu/~asuggala/) (Google), [Michael Muehlebach](https://sites.google.com/corp/view/mmuehlebach/) (MPI-IS), [Bernhard Schölkopf](https://is.mpg.de/~bs) (MPI-IS) and [Sandeep Juneja](https://www.tcs.tifr.res.in/~sandeepj/) (TIFR).
+I am a Pre-Doctoral Researcher in the Machine Learning and Optimization (MLO) Team at Google DeepMind. Prior to this, I was an undergrad at Indian Institute of Technology Kanpur (IITK) double majoring in Electrical Engineering and Mathematics. During my time at IITK and Google, I have been fortunate to learn from an amazing set of mentors (in no particular order) : [Praneeth Netrapalli](https://praneethnetrapalli.org/) (Google), [Dheeraj Nagaraj](https://dheerajnagaraj.com/) (Google), [Arun Suggala](https://www.cs.cmu.edu/~asuggala/) (Google), [Michael Muehlebach](https://sites.google.com/corp/view/mmuehlebach/) (MPI-IS), [Bernhard Schölkopf](https://is.mpg.de/~bs) (MPI-IS) and [Sandeep Juneja](https://www.tcs.tifr.res.in/~sandeepj/) (TIFR).
 
 
-##  Interests
+##  Research
 
-My interests lie at the intersection of Applied Probability, Statistics and Theoretical Computer Science. Specific interests include:
+I'm broadly interested in the union of Probability, Geometry and Theoretical Computer Science. Specific areas of interest include:
 
-- **Sampling and Markov Chains** : Sampling from High-Dimensional Densities, Spin Systems, Wasserstein Gradient Flows, Bakry-Emery Theory  
+- **Sampling and Markov Chains** : Algorithms and Lower Bounds for Sampling from High Dimensional Gibbs Measures and Convex Bodies, Spin Systems, Bakry-Emery Theory  
 
-- **Applied Probability** : Concentration of Measure, Random Matrix Theory, Optimal Transport, High-Dimensional Statistics
+- **Applied Probability** : Phase Transitions in Random Structures, Information-Computation Tradeoffs in High Dimensional Statistics, Optimal Transport Theory, Interacting Particle Systems
 
-- **Continuous Optimization** : Nonconvex Optimization, Minimax Optimization, Stochastic Optimization 
+- **Dynamical Systems and Optimization** : Euclidean and Wasserstein Gradient Flows, applications to Continuous Optimization and Statistical Learning
+
+Much of my recent work has focused on the applications of these ideas to the analysis of widely used Machine Learning algorithms.
 
 ## News
 
-- **[Nov. 2023]** Gave a [talk](https://www.youtube.com/watch?v=ufDU59FSCls) at the [MSR-IISc Theory Seminar](https://www.csa.iisc.ac.in/iisc-msr-seminar/?talk=20231124_AniketDas) on analyzing sampling through the lens of optimization.  
-- **[Sept. 2023]** Our paper on [Fast Finite-Particle Convergence of Stein Variational Gradient Descent](https://arxiv.org/abs/2305.17558) is accepted as a **Spotlight Paper at NeurIPS 2023**
-- **[May 2023]** Our papers on [Stochastic Gradient Langevin Dynamics](https://proceedings.mlr.press/v195/das23a.html) and [Near Optimal Heteroscedastic Regression](https://proceedings.mlr.press/v195/das23b.html) are accepted at **COLT 2023**. 
-- **[Sept. 2022]** Our paper on [Sampling Without Replacement for Finite-sum Minimax Optimization](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2ce4f0b8e24c45318352068603153590-Abstract-Conference.html) is accepted at **NeurIPS 2022** 
-- **[July 2022]** Joined the MLO Team at Google AI, Bangalore as a Pre-Doctoral Researcher
-- **[June 2022]** Graduated from IIT Kanpur with a Double Major in EE and Math.
+- **[Mar. 2024]** Talk at FLAIR Seminar, EPFL on analyzing sampling as optimization on the space of measures
+- **[Nov. 2023]** [Talk](https://www.youtube.com/watch?v=ufDU59FSCls) at the [MSR-IISc Theory Seminar](https://www.csa.iisc.ac.in/iisc-msr-seminar/?talk=20231124_AniketDas) on analyzing sampling through the lens of optimization.  
+- **[Sept. 2023]** Paper on [Fast Finite-Particle Convergence of Stein Variational Gradient Descent](https://arxiv.org/abs/2305.17558) accepted as a **Spotlight Paper at NeurIPS 2023**
+- **[May 2023]** Papers on [Stochastic Gradient Langevin Dynamics](https://proceedings.mlr.press/v195/das23a.html) and [Near Optimal Heteroscedastic Regression](https://proceedings.mlr.press/v195/das23b.html) accepted at **COLT 2023**. 
+- **[Sep. 2022]** Paper on [Sampling Without Replacement for Finite-sum Minimax Optimization](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2ce4f0b8e24c45318352068603153590-Abstract-Conference.html) accepted at **NeurIPS 2022** 
+- **[Jul. 2022]** Joined the MLO Team at Google DeepMind
+- **[Jun. 2022]** Graduated from IIT Kanpur with a Double Major in EE and Math.
 
 ## Selected Publications
 
