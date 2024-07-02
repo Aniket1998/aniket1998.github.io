@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Pre-Doctoral Researcher in the Machine Learning and Optimization (MLO) Team at Google DeepMind. Prior to this, I was an undergrad at Indian Institute of Technology Kanpur (IITK) double majoring in Electrical Engineering and Mathematics. During my time at IITK and Google, I have been fortunate to learn from an amazing set of mentors (in no particular order) : [Praneeth Netrapalli](https://praneethnetrapalli.org/) (Google), [Dheeraj Nagaraj](https://dheerajnagaraj.com/) (Google), [Arun Suggala](https://www.cs.cmu.edu/~asuggala/) (Google), [Michael Muehlebach](https://sites.google.com/corp/view/mmuehlebach/) (MPI-IS), [Bernhard Schölkopf](https://is.mpg.de/~bs) (MPI-IS) and [Sandeep Juneja](https://www.tcs.tifr.res.in/~sandeepj/) (TIFR).
+I am currently a Pre-Doctoral Researcher at Google DeepMind, India. Prior to this, I was an undergrad at Indian Institute of Technology Kanpur (IITK) double majoring in Electrical Engineering and Mathematics. Towards the tail end of my time at IITK, I interned at the Max Planck Institute for Intelligent Systems (MPI-IS) under the supervision of [Michael Muehlebach](https://sites.google.com/corp/view/mmuehlebach/) and [Bernhard Schölkopf](https://is.mpg.de/~bs); and the Tata Institute of Fundamental Research under the supervision of [Sandeep Juneja](https://www.tcs.tifr.res.in/~sandeepj/)
 
 
 ##  Research
