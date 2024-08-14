@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Pre-Doctoral Researcher at Google DeepMind, India. Prior to this, I was an undergrad at Indian Institute of Technology Kanpur (IITK) double majoring in Electrical Engineering and Mathematics. Towards the tail end of my time at IITK, I interned at the Max Planck Institute for Intelligent Systems (MPI-IS) under the supervision of [Michael Muehlebach](https://sites.google.com/corp/view/mmuehlebach/) and [Bernhard Schölkopf](https://is.mpg.de/~bs); and the Tata Institute of Fundamental Research under the supervision of [Sandeep Juneja](https://www.tcs.tifr.res.in/~sandeepj/)
+I ~~am currently~~ was a Pre-Doctoral Researcher at Google DeepMind, India. Before this, I was a dazed and confused undergrad at Indian Institute of Technology Kanpur (IITK) double majoring in Electrical Engineering and Mathematics. Towards the tail end of my life at IITK, I interned at the Max Planck Institute for Intelligent Systems (MPI-IS) under the supervision of [Michael Muehlebach](https://sites.google.com/corp/view/mmuehlebach/) and [Bernhard Schölkopf](https://is.mpg.de/~bs); and the Tata Institute of Fundamental Research under the supervision of [Sandeep Juneja](https://www.tcs.tifr.res.in/~sandeepj/)
 
 
 ##  Research
