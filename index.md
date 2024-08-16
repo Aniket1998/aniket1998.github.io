@@ -21,6 +21,7 @@ Much of my recent work has focused on the applications of these ideas to the ana
 
 ## News
 
+- **[Nov. 2023]** Talk at the [MSR-IISc Theory Seminar](https://www.csa.iisc.ac.in/iisc-msr-seminar/?talk=20240809_AniketDas) on optimal linear time streaming algorithms for heavy tailed statistics   
 - **[Mar. 2024]** Talk at FLAIR Seminar, EPFL on analyzing sampling as optimization on the space of measures
 - **[Nov. 2023]** [Talk](https://www.youtube.com/watch?v=ufDU59FSCls) at the [MSR-IISc Theory Seminar](https://www.csa.iisc.ac.in/iisc-msr-seminar/?talk=20231124_AniketDas) on analyzing sampling through the lens of optimization.  
 - **[Sept. 2023]** Paper on [Fast Finite-Particle Convergence of Stein Variational Gradient Descent](https://arxiv.org/abs/2305.17558) accepted as a **Spotlight Paper at NeurIPS 2023**
@@ -50,7 +51,7 @@ NeurIPS 2022 [**[Paper]**](https://proceedings.neurips.cc/paper_files/paper/2022
 
 ## Service
 
-- Reviewer : JMLR, NeurIPS, AISTATS
+- Reviewer : NeurIPS, AISTATS
 - Co-ordinator : Special Interest Group in Machine Learning, IIT Kanpur
 - Undergrad Mentor : Programming Club, IIT Kanpur and Stamatics (Math Club), IIT Kanpur
 
