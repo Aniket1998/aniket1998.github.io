@@ -4,33 +4,26 @@ layout: homepage
 
 ## About Me
 
-I ~~am currently~~ was a Pre-Doctoral Researcher at Google DeepMind, India. Before this, I was a dazed and confused undergrad at Indian Institute of Technology Kanpur (IITK) double majoring in Electrical Engineering and Mathematics. Towards the tail end of my life at IITK, I interned at the Max Planck Institute for Intelligent Systems (MPI-IS) under the supervision of [Michael Muehlebach](https://sites.google.com/corp/view/mmuehlebach/) and [Bernhard Schölkopf](https://is.mpg.de/~bs); and the Tata Institute of Fundamental Research under the supervision of [Sandeep Juneja](https://www.tcs.tifr.res.in/~sandeepj/)
+I am a first year PhD student at Stanford CS. Prior to this, I was a Pre-Doctoral Researcher at Google DeepMind. Before that, I was a dazed and confused undergrad at Indian Institute of Technology Kanpur, where I double majored in Electrical Engineering and Math.
 
 
 ##  Research
 
-I'm broadly interested in the union of Probability, Geometry and Theoretical Computer Science. Specific areas of interest include:
-
-- **Sampling and Markov Chains** : Algorithms and Lower Bounds for Sampling from High Dimensional Gibbs Measures and Convex Bodies, Spin Systems, Bakry-Emery Theory  
-
-- **Applied Probability** : Phase Transitions in Random Structures, Information-Computation Tradeoffs in High Dimensional Statistics, Optimal Transport Theory, Interacting Particle Systems
-
-- **Dynamical Systems and Optimization** : Euclidean and Wasserstein Gradient Flows, applications to Continuous Optimization and Statistical Learning
-
-Much of my recent work has focused on the applications of these ideas to the analysis of widely used Machine Learning algorithms.
-
+I'm broadly interested in the design and analysis of algorithms by applying ideas from probability and geometry. Specific interests include the analysis of Markov Chains, complexity of statistical inference, continuous optimization and Wasserstein Gradient Flows.
 ## News
 
+- **[Nov. 2023]** Started grad school at Stanford.  
 - **[Nov. 2023]** Talk at the [MSR-IISc Theory Seminar](https://www.csa.iisc.ac.in/iisc-msr-seminar/?talk=20240809_AniketDas) on optimal linear time streaming algorithms for heavy tailed statistics   
 - **[Mar. 2024]** Talk at FLAIR Seminar, EPFL on analyzing sampling as optimization on the space of measures
 - **[Nov. 2023]** [Talk](https://www.youtube.com/watch?v=ufDU59FSCls) at the [MSR-IISc Theory Seminar](https://www.csa.iisc.ac.in/iisc-msr-seminar/?talk=20231124_AniketDas) on analyzing sampling through the lens of optimization.  
-- **[Sept. 2023]** Paper on [Fast Finite-Particle Convergence of Stein Variational Gradient Descent](https://arxiv.org/abs/2305.17558) accepted as a **Spotlight Paper at NeurIPS 2023**
-- **[May 2023]** Papers on [Stochastic Gradient Langevin Dynamics](https://proceedings.mlr.press/v195/das23a.html) and [Near Optimal Heteroscedastic Regression](https://proceedings.mlr.press/v195/das23b.html) accepted at **COLT 2023**. 
-- **[Sep. 2022]** Paper on [Sampling Without Replacement for Finite-sum Minimax Optimization](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2ce4f0b8e24c45318352068603153590-Abstract-Conference.html) accepted at **NeurIPS 2022** 
 - **[Jul. 2022]** Joined the MLO Team at Google DeepMind
-- **[Jun. 2022]** Graduated from IIT Kanpur with a Double Major in EE and Math.
+- **[Jun. 2022]** Finished undergrad at IIT Kanpur with a double major in EE and Math.
 
 ## Selected Publications
+
+- **Near-Optimal Streaming Heavy-Tailed Statistical Estimation with Clipped SGD**
+*with Dheeraj Nagaraj, Soumyabrata Pal, Arun Suggala and Prateek Varshney*
+NeurIPS 2024 [**[Paper]**](https://arxiv.org/pdf/2410.20135)   
 
 - **Provably Fast Finite-Particle Variants of SVGD via Virtual Particle Stochastic Approximation**  
 *with Dheeraj Nagaraj*  
