@@ -12,17 +12,17 @@ I am a first year PhD student at Stanford CS. Prior to this, I was a Pre-Doctora
 I'm broadly interested in the design and analysis of algorithms by applying ideas from probability and geometry. Specific interests include the analysis of Markov Chains, complexity of statistical inference, continuous optimization and Wasserstein Gradient Flows.
 ## News
 
-- **[Nov. 2023]** Started grad school at Stanford.  
+- **[Sep. 2024]** Started grad school at Stanford.  
 - **[Nov. 2023]** Talk at the [MSR-IISc Theory Seminar](https://www.csa.iisc.ac.in/iisc-msr-seminar/?talk=20240809_AniketDas) on optimal linear time streaming algorithms for heavy tailed statistics   
 - **[Mar. 2024]** Talk at FLAIR Seminar, EPFL on analyzing sampling as optimization on the space of measures
 - **[Nov. 2023]** [Talk](https://www.youtube.com/watch?v=ufDU59FSCls) at the [MSR-IISc Theory Seminar](https://www.csa.iisc.ac.in/iisc-msr-seminar/?talk=20231124_AniketDas) on analyzing sampling through the lens of optimization.  
-- **[Jul. 2022]** Joined the MLO Team at Google DeepMind
+- **[Jul. 2022]** Joined Google DeepMind as a Predoc.
 - **[Jun. 2022]** Finished undergrad at IIT Kanpur with a double major in EE and Math.
 
 ## Selected Publications
 
-- **Near-Optimal Streaming Heavy-Tailed Statistical Estimation with Clipped SGD**
-*with Dheeraj Nagaraj, Soumyabrata Pal, Arun Suggala and Prateek Varshney*
+- **Near-Optimal Streaming Heavy-Tailed Statistical Estimation with Clipped SGD**   
+*with Dheeraj Nagaraj, Soumyabrata Pal, Arun Suggala and Prateek Varshney*   
 NeurIPS 2024 [**[Paper]**](https://arxiv.org/pdf/2410.20135)   
 
 - **Provably Fast Finite-Particle Variants of SVGD via Virtual Particle Stochastic Approximation**  
