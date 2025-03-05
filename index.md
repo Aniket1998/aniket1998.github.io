@@ -34,10 +34,10 @@ NeurIPS 2022 [**[Paper]**](https://proceedings.neurips.cc/paper_files/paper/2022
 
 ## Talks
 
-- **Linear Time Streaming Algorithms for Heavy Tailed Statistics**
+- **Linear Time Streaming Algorithms for Heavy Tailed Statistics**   
 MSR IISc Theory Seminar 2024 [Slides](https://docs.google.com/presentation/d/1pvHixpJPB6mRwnk7q7IduzTkAMiNNOoXm9XtoX4Zs-A/edit?usp=sharing)
 
-- **Sampling Through the Lens of Optimization : Recent Advances and Insights**
+- **Sampling Through the Lens of Optimization : Recent Advances and Insights**   
 MSR IISc Theory Seminar 2023, EPFL FLAIR Seminar 2024 [Slides](https://docs.google.com/presentation/d/1Q8K-gFItZUtFOSrLKA-3cu4KJE7_vkt2TN4_ijU4pjQ/edit?usp=sharing)   
 
 ## Service
