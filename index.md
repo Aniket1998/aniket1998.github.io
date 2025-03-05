@@ -4,20 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a first year PhD student at Stanford CS. Prior to this, I was a Pre-Doctoral Researcher at Google DeepMind. Before that, I was a dazed and confused undergrad at Indian Institute of Technology Kanpur, where I double majored in Electrical Engineering and Math.
+Hi! I'm a first year PhD student in the CS Theory Group at Stanford. My interests broadly lie at the intersection of probability and theoretical computer science. Less broadly, I like thinking about Markov Chains, the complexity of statistical inference, and algorithmic applications of Wasserstein Gradient Flows. 
 
+Prior to grad school, I was a Pre-Doctoral Researcher at Google DeepMind. Even earlier,  I was a dazed and confused undergrad at Indian Institute of Technology Kanpur, where I double majored in Electrical Engineering and Math.
 
-##  Research
-
-I'm broadly interested in the design and analysis of algorithms by applying ideas from probability and geometry. Specific interests include the analysis of Markov Chains, complexity of statistical inference, continuous optimization and Wasserstein Gradient Flows.
-## News
-
-- **[Sep. 2024]** Started grad school at Stanford.  
-- **[Nov. 2023]** Talk at the [MSR-IISc Theory Seminar](https://www.csa.iisc.ac.in/iisc-msr-seminar/?talk=20240809_AniketDas) on optimal linear time streaming algorithms for heavy tailed statistics   
-- **[Mar. 2024]** Talk at FLAIR Seminar, EPFL on analyzing sampling as optimization on the space of measures
-- **[Nov. 2023]** [Talk](https://www.youtube.com/watch?v=ufDU59FSCls) at the [MSR-IISc Theory Seminar](https://www.csa.iisc.ac.in/iisc-msr-seminar/?talk=20231124_AniketDas) on analyzing sampling through the lens of optimization.  
-- **[Jul. 2022]** Joined Google DeepMind as a Predoc.
-- **[Jun. 2022]** Finished undergrad at IIT Kanpur with a double major in EE and Math.
 
 ## Selected Publications
 
@@ -41,6 +31,14 @@ COLT 2023 [**[Paper]**](https://proceedings.mlr.press/v195/das23a.html)
 - **Sampling without Replacement Leads to Faster Rates in Finite-Sum Minimax Optimization**  
 *with Bernhard Schölkopf and Michael Muehlebach*  
 NeurIPS 2022 [**[Paper]**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2ce4f0b8e24c45318352068603153590-Abstract-Conference.html)
+
+## Talks
+
+- **Linear Time Streaming Algorithms for Heavy Tailed Statistics**
+MSR IISc Theory Seminar 2024 [Slides](https://docs.google.com/presentation/d/1pvHixpJPB6mRwnk7q7IduzTkAMiNNOoXm9XtoX4Zs-A/edit?usp=sharing)
+
+- **Sampling Through the Lens of Optimization : Recent Advances and Insights**
+MSR IISc Theory Seminar 2023, EPFL FLAIR Seminar 2024 [Slides](https://docs.google.com/presentation/d/1Q8K-gFItZUtFOSrLKA-3cu4KJE7_vkt2TN4_ijU4pjQ/edit?usp=sharing)   
 
 ## Service
 
