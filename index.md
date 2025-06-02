@@ -4,9 +4,11 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm a first year PhD student in the CS Theory Group at Stanford. My interests broadly lie at the intersection of probability and theoretical computer science. Less broadly, I like thinking about Markov Chains, the complexity of statistical inference, and algorithmic applications of Wasserstein Gradient Flows. 
+Hi! I'm a first year CS PhD student in the Theory Group at Stanford, where I'm advised by the spectacular duo of [Nima Anari](https://nimaanari.com/) and [Tselil Schramm](https://tselilschramm.org/). 
 
-Prior to grad school, I was a Pre-Doctoral Researcher at Google DeepMind. Even earlier,  I was a dazed and confused undergrad at Indian Institute of Technology Kanpur, where I double majored in Electrical Engineering and Math.
+My interests broadly lie at the intersection of probability and theoretical computer science. Less broadly, I like thinking about Markov Chains, the complexity of statistical inference, and algorithmic applications of Wasserstein Gradient Flows. Feel free to reach out if we share similar interests! 
+
+Prior to grad school, I was a Pre-Doctoral Researcher at Google DeepMind India. Even earlier,  I was a dazed and confused undergrad at Indian Institute of Technology Kanpur, where I double majored in Electrical Engineering and Math.
 
 
 ## Selected Publications
@@ -42,7 +44,7 @@ MSR IISc Theory Seminar 2023, EPFL FLAIR Seminar 2024 [Slides](https://docs.goog
 
 ## Service
 
-- Reviewer : NeurIPS, AISTATS
+- Reviewer : NeurIPS, ICML, AISTATS
 - Co-ordinator : Special Interest Group in Machine Learning, IIT Kanpur
 - Undergrad Mentor : Programming Club, IIT Kanpur and Stamatics (Math Club), IIT Kanpur
 
