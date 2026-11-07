@@ -1,113 +1,36 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
-
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ site.description }}">
-    {% if site.keywords %}
-    <meta name="keywords" content="{{ site.keywords }}">
-    {% endif %}
-    {% if site.canonical %}
-    <link rel="canonical" href="{{ site.canonical }}"/>
-    {% endif %}
-
-    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
-    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
-    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
-
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
-
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="stylesheet" href="./assets/css/publications.css">
-
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        
-        {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
-        {% endif %}
-
-        <h1>{{ site.title }}</h1>
-
-        {% if site.position %}
-        <position style="font-size:1.10rem;">{{ site.position }}</position>
-        <br>
-        {% endif %}
-        {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
-        <br>
-        {% endif %}
-        {% if site.email %}
-        <email>{{ site.email }}</email>
-        {% endif %}
-
-        <br>
-        <br>
-        <div class="social-icons">
-        {% if site.google_scholar %}
-        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
-          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
-        </a>  
-        {% endif %}
-
-        {% if site.cv_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
-          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
+---
+layout: default
+---
+<aside class="profile" aria-label="Academic profile">
+  {% if site.avatar %}
+    <img class="portrait" src="{{ site.avatar | relative_url }}" alt="Portrait of {{ site.title | escape }}" width="190" height="190" fetchpriority="high">
+  {% endif %}
+  <address class="profile-contact">
+    {% if site.email %}<a class="profile-email" href="mailto:{{ site.email }}">{{ site.email | escape }}</a>{% endif %}
+    {% if site.office %}<span class="profile-office">{{ site.office | escape }}</span>{% endif %}
+  </address>
+    <nav class="profile-links" aria-label="Contact and profiles">
+      {% if site.email %}
+        <a href="mailto:{{ site.email }}" aria-label="Email {{ site.title | escape }}" title="{{ site.email | escape }}">
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 4h18a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Z"/><path class="icon-knockout" d="m2.5 6 9.5 7 9.5-7-1.2-1.6L12 10.5 3.7 4.4Z"/></svg>
         </a>
-        {% endif %}
-
-        {% if site.github_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
-          <i class="fab fa-github"></i>
-        </a>
-        {% endif %}
-
-        {% if site.linkedin %}
-        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
-          <i class="fab fa-linkedin"></i>
-        </a>
-        {% endif %}
-
-        {% if site.twitter %}
-        <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
-          <i class="fab fa-twitter"></i>
-        </a>
-        {% endif %}
-        </div>
-        <br>
-
-      </header>
-      <section>
-
-      {{ content }}
-
-      <br>
-
-      {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
       {% endif %}
-
-      </section>
-      <footer>
-        
-      </footer>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-    </script>
-    {% endif %}
-  </body>
-</html>
+      {% if site.cv_link %}
+        <a href="{{ site.cv_link | relative_url }}" aria-label="CV (PDF)" title="CV (PDF)">
+          <svg class="pdf-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 1h9l6 6v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2Z"/><path class="icon-knockout" d="M14 2.5V8h5.5Z"/><text class="icon-knockout" x="11.5" y="17.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="6.5" font-weight="700">PDF</text></svg>
+        </a>
+      {% endif %}
+      {% if site.google_scholar %}
+        <a href="{{ site.google_scholar }}" aria-label="Google Scholar" title="Google Scholar">
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m12 2 12 6-12 6L0 8l12-6ZM5 12l7 3.5 7-3.5v6c-4 3-10 3-14 0v-6ZM22 10h2v9h-2Z"/></svg>
+        </a>
+      {% endif %}
+      {% if site.linkedin %}
+        <a href="{{ site.linkedin }}" aria-label="LinkedIn" title="LinkedIn">
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="2" y="2" width="20" height="20" rx="2"/><path class="icon-knockout" d="M6 10h3v9H6v-9Zm5 0h2.8v1.2c.7-1 1.5-1.5 2.8-1.5 2.3 0 3.4 1.5 3.4 4V19h-3v-4.8c0-1.4-.5-2.1-1.6-2.1s-1.4.8-1.4 2.1V19h-3v-9Z"/><circle class="icon-knockout" cx="7.5" cy="6.8" r="1.7"/></svg>
+        </a>
+      {% endif %}
+      {% if site.github_link %}<a href="{{ site.github_link }}" class="profile-text-link">GitHub</a>{% endif %}
+    </nav>
+</aside>
+{{ content }}

@@ -3,6 +3,7 @@ title: Aniket Das
 position: CS PhD Student
 affiliation: Stanford University
 email: aniketd@stanford.edu
+office: CoDa W222, Jane Stanford Way
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -16,17 +17,11 @@ google_scholar: https://scholar.google.com/citations?user=o8Dyas0AAAAJ&hl=en
 cv_link: assets/files/cv.pdf
 #github_link: https://github.com/
 linkedin: https://www.linkedin.com/in/aniket-das-68a252241/
-twitter: https://twitter.com/ketd47
 
 # Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# The PNG favicon is the viridian fallback; the layout also links a theme-aware SVG.
 avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
-
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+favicon: ./assets/img/1rsb-favicon.png
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
@@ -46,3 +41,15 @@ exclude:
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
+  - scripts
+  - .preview
+  - .vscode
+  - .agents
+  - .codex
+  - skills
+  - AGENTS.md
+  - "**/AGENTS.md"
+  - AGENTS.override.md
+  - "**/AGENTS.override.md"
+  - SKILL.md
+  - "**/SKILL.md"

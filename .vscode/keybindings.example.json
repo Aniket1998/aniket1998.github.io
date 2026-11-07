@@ -1,0 +1,18 @@
+[
+  {
+    "key": "cmd+alt+b",
+    "command": "workbench.action.tasks.runTask",
+    "args": "Preview website",
+    "when": "resourcePath =~ /\\/aniket1998\\.github\\.io\\//"
+  },
+  {
+    "key": "cmd+alt+v",
+    "command": "workbench.action.browser.open",
+    "args": {
+      "url": "http://127.0.0.1:4000",
+      "openToSide": true,
+      "reuseUrlFilter": "http://127.0.0.1:4000"
+    },
+    "when": "resourcePath =~ /\\/aniket1998\\.github\\.io\\//"
+  }
+]

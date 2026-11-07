@@ -1,0 +1,3 @@
+interface:
+  display_name: "Verify Academic Site"
+  short_description: "Check rendering, links, and published file boundaries"

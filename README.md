@@ -1,3 +1,53 @@
+# Aniket Das — academic website
+
+## Local preview in VS Code
+
+Run `./scripts/setup-preview.sh` once. On Apple Silicon Macs with an older
+system Ruby, it installs a checksum-verified portable Ruby in `.preview/ruby`.
+Gems and caches also stay under the ignored `.preview/` directory; no shell
+configuration or system Ruby changes are required.
+
+With a file from this repository active in VS Code:
+
+- **Cmd+Option+B:** start the **Preview website** task.
+- **Cmd+Option+V:** open `http://127.0.0.1:4000` beside the editor, reusing an
+  existing preview tab.
+- **Cmd+Shift+B:** also starts the preview through VS Code's default build task.
+- Save content or style changes to rebuild and refresh automatically.
+- Stop the server with **Ctrl+C** in its terminal, or **Tasks: Terminate Task**.
+  Restart it after changing `_config.yml` or `_config.preview.yml`.
+
+The custom keyboard shortcuts live in VS Code's user keybindings, because VS Code
+does not load workspace keybindings. On another machine, merge the entries in
+`.vscode/keybindings.example.json` into **Preferences: Open Keyboard Shortcuts
+(JSON)**. They apply only to files in a checkout named `aniket1998.github.io`.
+
+Terminal equivalents:
+
+```bash
+./scripts/preview.sh                   # live preview
+./scripts/preview.sh build             # preview build -> _site
+./scripts/preview.sh build-production  # publication build -> .preview/production-site
+```
+
+Local preview uses the checked-in theme files rather than fetching the remote
+theme. Preview scripts, local tooling, agent instructions, and skills are excluded
+from the generated website in `_config.yml`. This does not hide them on GitHub.
+
+Both build commands check their output and fail if agent instructions, skills,
+or development tooling would be published. The production build uses `_config.yml`
+without the preview override and may need network access to fetch the remote
+theme. Its separate output directory does not replace the live preview.
+
+## Agent workflow
+
+Repository guidance lives in [AGENTS.md](AGENTS.md). Focused skills live in
+`.agents/skills/`: `design-academic-site`, `update-academic-content`, and
+`verify-academic-site`. The design skill includes the standalone design brief.
+These files are versioned with the project and excluded from the website.
+
+The original theme documentation follows.
+
 # The Minimal Light Theme
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)

@@ -1,0 +1,12 @@
+<ul class="papers-list" role="list">
+  {% for paper in include.papers %}
+  <li id="paper-{{ paper.id }}">
+    <p>
+      <strong class="paper-title">{{ paper.title | escape }}</strong>
+      <em>with {% for author in paper.coauthors %}{% unless forloop.first %}{% if forloop.last %} and {% else %}, {% endif %}{% endunless %}{% assign author_url = site.data.collaborators[author] %}{% if author_url %}<a class="coauthor-link" href="{{ author_url | escape }}">{{ author | escape }}</a>{% else %}{{ author | escape }}{% endif %}{% endfor %}</em>
+      {% if paper.badge == "Preprint" %}<span class="venue-badge">Preprint</span>{% else %}<abbr class="venue-badge" title="{{ paper.badge_title | escape }}">{{ paper.badge | escape }}</abbr>{% endif %}{% if paper.distinction %}<span class="publication-note">{{ paper.distinction | escape }}</span>{% endif %}<a class="paper-link" href="{{ paper.paper_url | escape }}">Paper <span class="paper-arrow" aria-hidden="true">↗</span></a>
+    </p>
+    {% if paper.note %}<div class="paper-extra">{{ paper.note | markdownify }}</div>{% endif %}
+  </li>
+  {% endfor %}
+</ul>

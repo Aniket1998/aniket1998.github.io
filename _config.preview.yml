@@ -1,0 +1,3 @@
+# The layout, includes, and Sass are already checked into this repository.
+# Use those local files without downloading the remote theme on every preview.
+remote_theme: false

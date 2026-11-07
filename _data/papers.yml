@@ -1,0 +1,152 @@
+# Ordered newest first, following the supplied CV. Selection is editorial.
+# The two Tensor PCA preprints use "Preprint" badges; published papers
+# display their conference or journal venue and year from the CV.
+- id: tensor-pca-langevin
+  title: "Averaged Annealed Markov Chains Achieve the Algorithmic Threshold for Tensor PCA, Part II: Langevin Dynamics"
+  coauthors:
+    - Tselil Schramm
+  year: 2026
+  venue: Under Review
+  badge: Preprint
+  badge_title: Preprint
+  paper_url: https://arxiv.org/abs/2610.38206v1
+  selected: true
+
+- id: tensor-pca-glauber
+  title: "Averaged Annealed Markov Chains Achieve the Algorithmic Threshold for Tensor PCA, Part I: Glauber Dynamics"
+  coauthors:
+    - Tselil Schramm
+  year: 2026
+  venue: Under Review
+  badge: Preprint
+  badge_title: Preprint
+  paper_url: https://arxiv.org/abs/2610.16705
+  selected: true
+
+- id: parallel-ising-p-spin
+  title: Parallel Sampling from the Ising p-Spin Model
+  coauthors:
+    - Nima Anari
+    - Alireza Haqi
+  year: 2026
+  venue: International Conference on Randomization and Computation (RANDOM)
+  badge: RANDOM'26
+  badge_title: RANDOM 2026
+  paper_url: https://arxiv.org/abs/2607.12348
+  selected: true
+
+- id: exchangeable-diffusion-models
+  title: "Diffusion Models are Secretly Exchangeable: Parallelizing DDPMs via Auto Speculation"
+  coauthors:
+    - Hengyuan Hu
+    - Dorsa Sadigh
+    - Nima Anari
+  year: 2025
+  venue: International Conference on Machine Learning (ICML)
+  badge: ICML'25
+  badge_title: ICML 2025
+  paper_url: https://arxiv.org/abs/2505.03983
+  selected: false
+
+- id: clipped-sgd
+  title: Near-Optimal Streaming Heavy-Tailed Statistical Estimation with Clipped SGD
+  coauthors:
+    - Dheeraj Nagaraj
+    - Soumyabrata Pal
+    - Arun Sai Suggala
+    - Prateek Varshney
+  year: 2024
+  venue: Neural Information Processing Systems (NeurIPS)
+  badge: NeurIPS'24
+  badge_title: NeurIPS 2024
+  paper_url: https://arxiv.org/abs/2410.20135
+  selected: false
+
+- id: svgd
+  title: Provably Fast Finite-Particle Variants of SVGD via Virtual Particle Stochastic Approximation
+  coauthors:
+    - Dheeraj Nagaraj
+  year: 2023
+  venue: Neural Information Processing Systems (NeurIPS)
+  badge: NeurIPS'23
+  badge_title: NeurIPS 2023
+  paper_url: https://arxiv.org/abs/2305.17558
+  selected: true
+  distinction: Spotlight
+  note: "**Oral Presentation** at [OTML Workshop, NeurIPS 2023](https://otmlworkshop.github.io/)"
+
+- id: clt-sampling
+  title: "Utilising the CLT Structure in Stochastic Gradient based Sampling : Improved Analysis and Faster Algorithms"
+  coauthors:
+    - Dheeraj Nagaraj
+    - Anant Raj
+  year: 2023
+  venue: Conference on Learning Theory (COLT)
+  badge: COLT'23
+  badge_title: COLT 2023
+  paper_url: https://proceedings.mlr.press/v195/das23b.html
+  selected: true
+
+- id: heteroscedastic-regression
+  title: Near Optimal Heteroscedastic Regression with Symbiotic Learning
+  coauthors:
+    - Dheeraj Baby
+    - Dheeraj Nagaraj
+    - Praneeth Netrapalli
+  year: 2023
+  venue: Conference on Learning Theory (COLT)
+  badge: COLT'23
+  badge_title: COLT 2023
+  paper_url: https://proceedings.mlr.press/v195/das23a.html
+  selected: true
+
+- id: sampling-without-replacement
+  title: Sampling without Replacement Leads to Faster Rates in Finite-Sum Minimax Optimization
+  coauthors:
+    - Bernhard Schölkopf
+    - Michael Muehlebach
+  year: 2022
+  venue: Neural Information Processing Systems (NeurIPS)
+  badge: NeurIPS'22
+  badge_title: NeurIPS 2022
+  paper_url: https://proceedings.neurips.cc/paper_files/paper/2022/hash/2ce4f0b8e24c45318352068603153590-Abstract-Conference.html
+  selected: false
+
+- id: neurint
+  title: NeurInt - Learning Interpolation by Neural ODEs
+  coauthors:
+    - Avinandan Bose
+    - Yatin Dandi
+    - Piyush Rai
+  year: 2021
+  venue: NeurIPS 2021 DL & Differential Equations Workshop
+  badge: NeurIPS'21 Workshop
+  badge_title: NeurIPS 2021 DL & Differential Equations Workshop
+  paper_url: https://openreview.net/pdf?id=2pxARe_q6EH
+  selected: false
+  distinction: Spotlight
+
+- id: torchgan
+  title: "TorchGAN: A Flexible Framework for GAN Training and Evaluation"
+  coauthors:
+    - Avik Pal
+  year: 2021
+  venue: Journal of Open Source Software (JOSS)
+  badge: JOSS'21
+  badge_title: Journal of Open Source Software 2021
+  paper_url: https://arxiv.org/abs/1909.03410
+  selected: false
+
+- id: jointly-trained-generation
+  title: Jointly Trained Image and Video Generation using Residual Vectors
+  coauthors:
+    - Yatin Dandi
+    - Soumye Singhal
+    - Vinay P. Namboodiri
+    - Piyush Rai
+  year: 2020
+  venue: Winter Conference on Applications of Computer Vision (WACV)
+  badge: WACV'20
+  badge_title: Winter Conference on Applications of Computer Vision 2020
+  paper_url: https://openaccess.thecvf.com/content_WACV_2020/papers/Dandi_Jointly_Trained_Image_and_Video_Generation_using_Residual_Vectors_WACV_2020_paper.pdf
+  selected: false

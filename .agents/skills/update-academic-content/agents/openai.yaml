@@ -1,0 +1,3 @@
+interface:
+  display_name: "Update Academic Content"
+  short_description: "Reconcile CV details and publication entries"
