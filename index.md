@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! I'm a third year CS PhD student in [Stanford Theory Group](https://theory.stanford.edu/main/index.shtml), where I'm advised by the spectacular duo of [Tselil Schramm](https://tselilschramm.org/) and [Nima Anari](https://nimaanari.com/). 
 
-My interests broadly lie at the intersection of probability and theoretical computer science. Recently, I've been thinking about Markov chains, spin glasses, random constraint satisfaction problems and average-case complexity. 
+My interests broadly lie at the intersection of probability and theoretical computer science. Recently, I've been thinking about Markov chains, spin glasses, and the design and analysis of algorithms for average-case problems.
 
 Prior to grad school, I was a Pre-Doctoral Researcher at Google DeepMind India. Before that, I was a dazed and confused undergrad at IIT Kanpur, where I double majored in Electrical Engineering and Math.
 
