@@ -74,7 +74,7 @@ h1 a:hover { color: var(--accent); }
 .site-nav .nav-separator { font-size: 17px; color: var(--strong-ink); }
 
 .page-content { display: flow-root; }
-.site-footer { margin-top: 48px; color: var(--muted); font: 400 13px/1.6 var(--sans); }
+.site-footer { margin-top: 48px; color: var(--muted); font: 400 13px/1.6 var(--sans); text-align: right; }
 .page-content:focus { outline: none; }
 .page-content a { text-decoration-color: currentColor; }
 .page-content p { margin: 0 0 18px; }
