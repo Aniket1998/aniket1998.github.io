@@ -8,6 +8,7 @@ Refresh Aniket Das's academic website so visitors can quickly understand his res
 
 - Keep the portrait modest in size; it should support the introduction without dominating the page. Do not put a role or university caption below it. Show the email address in a bold sans-serif font directly beneath the portrait, then the office address from the CV on the next line, followed by the icon row.
 - Do not create a news page or a Service section. Do not show a theme/framework credit footer.
+- Show a small, manually maintained last-updated label in the footer.
 - Label the homepage section Selected and Recent Papers and the top navigation link Papers. Place a concise View all papers link directly below the Selected and Recent Papers heading and before the first paper, pointing to `/papers/`. Render the complete list with the same paper format.
 - Show links only for resources that exist, such as Paper, Code, Slides, or BibTeX. The available resources can differ between publications.
 - Present available talk Slides and Video links as buttons. Use the supplied CV for talk titles, venues, dates, and resource URLs.

@@ -46,7 +46,7 @@
   badge: ICML'25
   badge_title: ICML 2025
   paper_url: https://arxiv.org/abs/2505.03983
-  selected: false
+  selected: true
 
 - id: clipped-sgd
   title: Near-Optimal Streaming Heavy-Tailed Statistical Estimation with Clipped SGD
